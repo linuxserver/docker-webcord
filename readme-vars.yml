@@ -75,4 +75,5 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "09.05.23:", desc: "Bundle Chromium to provide browser for opening links, etc." }
   - { date: "21.04.23:", desc: "Initial release." }
