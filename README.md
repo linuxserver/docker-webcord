@@ -265,5 +265,6 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **09.05.23:** - Add fonts-noto-color-emoji for better emoji support.
 * **09.05.23:** - Bundle Chromium to provide browser for opening links, etc.
 * **21.04.23:** - Initial release.
