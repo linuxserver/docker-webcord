@@ -154,6 +154,7 @@ findutils                                                                     4.
 fontconfig                                                                    2.13.1-4.2                                         deb        
 fontconfig-config                                                             2.13.1-4.2                                         deb        
 fonts-dejavu-core                                                             2.37-2                                             deb        
+fonts-noto-color-emoji                                                        0~20200916-1                                       deb        
 forwarded                                                                     0.2.0                                              npm        
 fresh                                                                         0.5.2                                              npm        
 fs-minipass                                                                   2.1.0                                              npm        
