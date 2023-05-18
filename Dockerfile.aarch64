@@ -24,6 +24,7 @@ RUN \
   apt-get install -y /tmp/webcord.deb && \
   apt-get install -y --no-install-recommends \
     chromium \
+    fonts-noto-cjk \
     fonts-noto-color-emoji && \
   echo "**** openbox tweaks ****" && \
   sed -i 's|</applications>|  <application title="*WebCord*" type="normal">\n    <maximized>yes</maximized>\n  </application>\n</applications>|' /etc/xdg/openbox/rc.xml && \
