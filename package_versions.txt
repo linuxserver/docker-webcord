@@ -24,7 +24,7 @@ NAME                                                                          VE
 @tootallnate/once                                                             2.0.0                                              npm        
 @types/cookie                                                                 0.4.1                                              npm        
 @types/cors                                                                   2.8.13                                             npm        
-@types/node                                                                   20.1.0                                             npm        
+@types/node                                                                   20.1.4                                             npm        
 PyGObject                                                                     3.38.0                                             python     
 abbrev                                                                        1.1.1                                              npm        
 abbrev                                                                        2.0.0                                              npm        
@@ -71,8 +71,8 @@ cacache                                                                       17
 call-bind                                                                     1.0.2                                              npm        
 chalk                                                                         4.1.2                                              npm        
 chownr                                                                        2.0.0                                              npm        
-chromium                                                                      113.0.5672.63-1~deb11u1                            deb        
-chromium-common                                                               113.0.5672.63-1~deb11u1                            deb        
+chromium                                                                      113.0.5672.126-1~deb11u1                           deb        
+chromium-common                                                               113.0.5672.126-1~deb11u1                           deb        
 ci-info                                                                       3.8.0                                              npm        
 cidr-regex                                                                    3.1.1                                              npm        
 clean-stack                                                                   2.2.0                                              npm        
@@ -124,8 +124,8 @@ dirmngr                                                                       2.
 distro-info-data                                                              0.51+deb11u3                                       deb        
 dmsetup                                                                       2:1.02.175-2.1                                     deb        
 docker-buildx-plugin                                                          0.10.4-1~debian.11~bullseye                        deb        
-docker-ce                                                                     5:23.0.5-1~debian.11~bullseye                      deb        
-docker-ce-cli                                                                 5:23.0.5-1~debian.11~bullseye                      deb        
+docker-ce                                                                     5:23.0.6-1~debian.11~bullseye                      deb        
+docker-ce-cli                                                                 5:23.0.6-1~debian.11~bullseye                      deb        
 docker-compose-plugin                                                         2.17.3-1~debian.11~bullseye                        deb        
 dpkg                                                                          1.20.12                                            deb        
 e2fsprogs                                                                     1.46.2-2                                           deb        
