@@ -743,7 +743,7 @@ libjbig0                                                                      2.
 libjbig2dec0                                                                  0.19-2                                              deb        
 libjpeg62-turbo                                                               1:2.0.6-4                                           deb        
 libjq1                                                                        1.6-2.1                                             deb        
-libjson-c5                                                                    0.15-2                                              deb        
+libjson-c5                                                                    0.15-2+deb11u1                                      deb        
 libjson-glib-1.0-0                                                            1.6.2-1                                             deb        
 libjson-glib-1.0-common                                                       1.6.2-1                                             deb        
 libjsoncpp24                                                                  1.9.4-4                                             deb        
@@ -992,8 +992,8 @@ libreadline8                                                                  8.
 libresid-builder0c2a                                                          2.1.1-15+b1                                         deb        
 librest-0.7-0                                                                 0.8.1-1.1                                           deb        
 librole-tiny-perl                                                             2.002004-1                                          deb        
-librsvg2-2                                                                    2.50.3+dfsg-1                                       deb        
-librsvg2-common                                                               2.50.3+dfsg-1                                       deb        
+librsvg2-2                                                                    2.50.3+dfsg-1+deb11u1                               deb        
+librsvg2-common                                                               2.50.3+dfsg-1+deb11u1                               deb        
 librtmp1                                                                      2.4+20151223.gitfa8646d.1-2+b2                      deb        
 librubberband2                                                                1.9.0-1                                             deb        
 libsamplerate0                                                                0.2.1+ds0-1                                         deb        
