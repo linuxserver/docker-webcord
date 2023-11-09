@@ -29,7 +29,7 @@ NAME                                                                          VE
 @tufjs/models                                                                 1.0.4                                               npm        
 @types/cookie                                                                 0.4.1                                               npm        
 @types/cors                                                                   2.8.15                                              npm        
-@types/node                                                                   20.8.9                                              npm        
+@types/node                                                                   20.8.10                                             npm        
 PyGObject                                                                     3.38.0                                              python     
 abbrev                                                                        1.1.1                                               npm        
 abbrev                                                                        2.0.0                                               npm        
@@ -53,7 +53,7 @@ are-we-there-yet                                                              4.
 array-flatten                                                                 1.1.1                                               npm        
 aspell                                                                        0.60.8-3                                            deb        
 aspell-en                                                                     2018.04.16-0-1                                      deb        
-async                                                                         3.2.4                                               npm        
+async                                                                         3.2.5                                               npm        
 at-spi2-core                                                                  2.38.0-4+deb11u1                                    deb        
 balanced-match                                                                1.0.2                                               npm        
 base-files                                                                    11.1+deb11u8                                        deb        
@@ -79,8 +79,8 @@ cacache                                                                       17
 call-bind                                                                     1.0.5                                               npm        
 chalk                                                                         4.1.2                                               npm        
 chownr                                                                        2.0.0                                               npm        
-chromium                                                                      118.0.5993.117-1~deb11u1                            deb        
-chromium-common                                                               118.0.5993.117-1~deb11u1                            deb        
+chromium                                                                      119.0.6045.105-1~deb11u1                            deb        
+chromium-common                                                               119.0.6045.105-1~deb11u1                            deb        
 ci-info                                                                       3.8.0                                               npm        
 cidr-regex                                                                    3.1.1                                               npm        
 clean-stack                                                                   2.2.0                                               npm        
@@ -1206,9 +1206,9 @@ libva2                                                                        2.
 libvariable-magic-perl                                                        0.62-1+b3                                           deb        
 libvdpau1                                                                     1.4-3                                               deb        
 libvidstab1.1                                                                 1.1.0-2+b1                                          deb        
-libvlc-bin                                                                    3.0.18-0+deb11u1                                    deb        
-libvlc5                                                                       3.0.18-0+deb11u1                                    deb        
-libvlccore9                                                                   3.0.18-0+deb11u1                                    deb        
+libvlc-bin                                                                    3.0.20-0+deb11u1                                    deb        
+libvlc5                                                                       3.0.20-0+deb11u1                                    deb        
+libvlccore9                                                                   3.0.20-0+deb11u1                                    deb        
 libvoikko1                                                                    4.3-1+b1                                            deb        
 libvorbis0a                                                                   1.3.7-1                                             deb        
 libvorbisenc2                                                                 1.3.7-1                                             deb        
@@ -1514,9 +1514,9 @@ utils-merge                                                                   1.
 validate-npm-package-license                                                  3.0.4                                               npm        
 validate-npm-package-name                                                     5.0.0                                               npm        
 vary                                                                          1.1.2                                               npm        
-vlc-data                                                                      3.0.18-0+deb11u1                                    deb        
-vlc-plugin-base                                                               3.0.18-0+deb11u1                                    deb        
-vlc-plugin-video-output                                                       3.0.18-0+deb11u1                                    deb        
+vlc-data                                                                      3.0.20-0+deb11u1                                    deb        
+vlc-plugin-base                                                               3.0.20-0+deb11u1                                    deb        
+vlc-plugin-video-output                                                       3.0.20-0+deb11u1                                    deb        
 walk-up-path                                                                  3.0.1                                               npm        
 wcwidth                                                                       1.0.1                                               npm        
 webcord                                                                       4.5.1                                               deb        
