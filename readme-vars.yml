@@ -75,6 +75,7 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "17.01.24:", desc: "Update bash wrappers to cleanup and detect seccomp." }
   - { date: "18.05.23:", desc: "Add fonts-noto-cjk for shrug support." }
   - { date: "12.05.23:", desc: "Add fonts-noto-color-emoji for better emoji support." }
   - { date: "09.05.23:", desc: "Bundle Chromium to provide browser for opening links, etc." }
