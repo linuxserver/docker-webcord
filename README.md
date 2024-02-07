@@ -314,6 +314,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **06.01.24:** - Rebase to Debian Bookworm.
 * **17.01.24:** - Update bash wrappers to cleanup and detect seccomp.
 * **18.05.23:** - Add fonts-noto-cjk for shrug support.
 * **12.05.23:** - Add fonts-noto-color-emoji for better emoji support.
