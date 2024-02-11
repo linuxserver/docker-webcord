@@ -12,6 +12,10 @@ ENV TITLE=WebCord \
 DEBIAN_FRONTEND=noninteractive
 
 RUN \
+  echo "**** add icon ****" && \
+  curl -o \
+    /kclient/public/icon.png \
+    https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/webcord-icon.png && \
   echo "**** install webcord ****" && \
   if [ -z ${WEBCORD_VERSION+x} ]; then \
     WEBCORD_VERSION=$(curl -sX GET "https://api.github.com/repos/SpacingBat3/WebCord/releases/latest" \
@@ -24,10 +28,9 @@ RUN \
   apt-get install -y /tmp/webcord.deb && \
   apt-get install -y --no-install-recommends \
     chromium \
+    chromium-l10n \
     fonts-noto-cjk \
     fonts-noto-color-emoji && \
-  echo "**** openbox tweaks ****" && \
-  sed -i 's|</applications>|  <application title="*WebCord*" type="normal">\n    <maximized>yes</maximized>\n  </application>\n</applications>|' /etc/xdg/openbox/rc.xml && \
   echo "**** application tweaks ****" && \
   mv \
     /usr/bin/webcord \
