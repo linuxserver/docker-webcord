@@ -6,6 +6,7 @@ project_url: "https://github.com/SpacingBat3/WebCord"
 project_logo: "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/webcord-icon.png"
 project_blurb: "[WebCord]({{ project_url }}) can be summarized as a pack of security and privacy hardenings, Discord features reimplementations, Electron / Chromium / Discord bugs workarounds, stylesheets, internal pages and wrapped https://discord.com page, designed to conform with ToS as much as it is possible (or hide the changes that might violate it from Discord's eyes)."
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
+project_categories: "Chat"
 project_blurb_optional_extras_enabled: false
 # supported architectures
 available_architectures:
