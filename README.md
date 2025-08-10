@@ -428,7 +428,8 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
-* **12.07.25:** - Rebase to Selkies, HTTPS IS NOW REQUIRED.
+* **10.08.25:** - Rebase to Debian Trixie.
+* **12.07.25:** - Switch to Selkies base image, HTTPS IS NOW REQUIRED.
 * **03.04.25:** - Update chromium launch options to improve performance.
 * **10.02.24:** - Update Readme with new env vars and ingest proper PWA icon.
 * **06.01.24:** - Rebase to Debian Bookworm.
