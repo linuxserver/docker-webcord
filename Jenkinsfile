@@ -29,7 +29,7 @@ pipeline {
     DOCKERHUB_IMAGE = 'linuxserver/webcord'
     DEV_DOCKERHUB_IMAGE = 'lsiodev/webcord'
     PR_DOCKERHUB_IMAGE = 'lspipepr/webcord'
-    DIST_IMAGE = 'ubuntu'
+    DIST_IMAGE = 'debian'
     MULTIARCH = 'true'
     CI = 'true'
     CI_WEB = 'true'

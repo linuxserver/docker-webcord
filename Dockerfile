@@ -1,4 +1,6 @@
-FROM ghcr.io/linuxserver/baseimage-selkies:debianbookworm
+# syntax=docker/dockerfile:1
+
+FROM ghcr.io/linuxserver/baseimage-selkies:debiantrixie
 
 # set version label
 ARG BUILD_DATE
@@ -34,7 +36,8 @@ RUN \
   echo "**** application tweaks ****" && \
   mv \
     /usr/bin/webcord \
-    /usr/bin/webcord-real && \ 
+    /usr/bin/webcord-real && \
+  printf "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" > /build_version && \
   echo "**** cleanup ****" && \
   apt-get autoclean && \
   rm -rf \

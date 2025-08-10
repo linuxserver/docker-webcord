@@ -6,7 +6,6 @@ external_type: github_stable
 release_type: stable
 release_tag: latest
 ls_branch: master
-build_armhf: false
 repo_vars:
   - EXT_GIT_BRANCH = 'master'
   - EXT_USER = 'SpacingBat3'
@@ -18,7 +17,7 @@ repo_vars:
   - DOCKERHUB_IMAGE = 'linuxserver/webcord'
   - DEV_DOCKERHUB_IMAGE = 'lsiodev/webcord'
   - PR_DOCKERHUB_IMAGE = 'lspipepr/webcord'
-  - DIST_IMAGE = 'ubuntu'
+  - DIST_IMAGE = 'debian'
   - MULTIARCH = 'true'
   - CI = 'true'
   - CI_WEB = 'true'
