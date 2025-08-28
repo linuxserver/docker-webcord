@@ -27,9 +27,9 @@ bsdutils                                                                      1:
 ca-certificates                                                               20250419                                   deb                         
 catatonit                                                                     0.2.1-2+b3                                 deb                         
 cffi                                                                          1.17.1                                     python                      
-chromium                                                                      139.0.7258.138-1~deb13u1                   deb                         
-chromium-common                                                               139.0.7258.138-1~deb13u1                   deb                         
-chromium-l10n                                                                 139.0.7258.138-1~deb13u1                   deb                         
+chromium                                                                      139.0.7258.154-1~deb13u1                   deb                         
+chromium-common                                                               139.0.7258.154-1~deb13u1                   deb                         
+chromium-l10n                                                                 139.0.7258.154-1~deb13u1                   deb                         
 cli                                                                           UNKNOWN                                    binary                      
 cli-32                                                                        UNKNOWN                                    binary                      
 cli-64                                                                        UNKNOWN                                    binary                      
@@ -1199,7 +1199,7 @@ tar                                                                           1.
 tomli                                                                         2.0.1                                      python                      
 typeguard                                                                     4.3.0                                      python                      
 typing-extensions                                                             4.12.2                                     python                      
-typing-extensions                                                             4.14.1                                     python                      
+typing-extensions                                                             4.15.0                                     python                      
 tzdata                                                                        2025b-4                                    deb                         
 udev                                                                          257.7-1                                    deb                         
 usbmuxd                                                                       1.1.1-6                                    deb                         
