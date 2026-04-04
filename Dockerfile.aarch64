@@ -11,7 +11,9 @@ LABEL maintainer="thelamer"
 
 # title
 ENV TITLE=WebCord \
-DEBIAN_FRONTEND=noninteractive
+    DEBIAN_FRONTEND=noninteractive \
+    NO_GAMEPAD=true \
+    PIXELFLUX_WAYLAND=true
 
 RUN \
   echo "**** add icon ****" && \
