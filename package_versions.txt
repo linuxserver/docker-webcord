@@ -28,9 +28,9 @@ bsdutils                                                                      1:
 ca-certificates                                                               20250419                               deb                         
 catatonit                                                                     0.2.1-2+b12                            deb                         
 cffi                                                                          2.0.0                                  python                      
-chromium                                                                      146.0.7680.164-1~deb13u1               deb                         
-chromium-common                                                               146.0.7680.164-1~deb13u1               deb                         
-chromium-l10n                                                                 146.0.7680.164-1~deb13u1               deb                         
+chromium                                                                      146.0.7680.177-1~deb13u1               deb                         
+chromium-common                                                               146.0.7680.177-1~deb13u1               deb                         
+chromium-l10n                                                                 146.0.7680.177-1~deb13u1               deb                         
 cli                                                                           UNKNOWN                                binary                      
 cli-32                                                                        UNKNOWN                                binary                      
 cli-64                                                                        UNKNOWN                                binary                      
@@ -1073,7 +1073,7 @@ pcmflux                                                                       1.
 perl                                                                          5.40.1-6                               deb                         
 perl-base                                                                     5.40.1-6                               deb                         
 perl-modules-5.40                                                             5.40.1-6                               deb                         
-pillow                                                                        12.1.1                                 python                      
+pillow                                                                        12.2.0                                 python                      
 pinentry-curses                                                               1.3.1-2                                deb                         
 pip                                                                           25.1.1                                 python                      
 pixelflux                                                                     1.6.0                                  python                      
