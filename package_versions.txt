@@ -1136,7 +1136,7 @@ udev                                                                          25
 util-linux                                                                    2.41-5                                 deb                         
 vulkan-tools                                                                  1.4.304.0+dfsg1-1                      deb                         
 watchdog                                                                      6.0.0                                  python                      
-webcord                                                                       4.12.1                                 deb                         
+webcord                                                                       4.13.0                                 deb                         
 websockets                                                                    16.0                                   python                      
 wheel                                                                         0.46.3                                 python                      
 wl-clipboard                                                                  2.2.1-2                                deb                         
