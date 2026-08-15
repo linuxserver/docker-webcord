@@ -23,7 +23,7 @@ RUN \
   echo "**** install webcord ****" && \
   if [ -z ${WEBCORD_VERSION+x} ]; then \
     WEBCORD_VERSION=$(curl -sX GET "https://api.github.com/repos/SpacingBat3/WebCord/releases/latest" \
-    | awk '/tag_name/{print $4;exit}' FS='[""]'); \
+    | jq -r '.tag_name'); \
   fi && \
   curl -o \
     /tmp/webcord.deb -L \
